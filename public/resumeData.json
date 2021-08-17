@@ -1,0 +1,230 @@
+{
+  "main": {
+    "name": "Pubudu Dilshan",
+    "occupation": " Entrepreneur",
+    "description": " Software Engineer, Founder & CEO at Future Apps ",
+    "jobDescription": "Loves Traveling and Driving",
+    "image": "profile_pic.jpg",
+    "bio": "Pubudu Dilshan - Software Engineer and Startup Enthusiast,I'm really enjoy exposing myself to different technologies everyday and working either independently or as [art of a team. I welcome all the opprtunities to consoder my suitabillity in details.",
+    "contactmessage": "Sent Me A Messege",
+    "email": "pubududilshan97@gmail.com",
+    "phone": "(+94) 713620406",
+    "address": {
+      "city": "Malabe.",
+      "state": "253/k/1,3rd lane Udaya Mawatha, Pittugala "
+    },
+    "website": "http://www.pubududilshan.com",
+    "resumedownload": "https://futureapps.me/",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/D.K.Pubudu.Dilshan/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/pubudu-dilshan-0872a98b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/dilshan_z_97/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "stack-overflow",
+        "url": "https://stackoverflow.com/users/7932002/pubudu-dilshan",
+        "className": "fa fa-stack-overflow"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/dilshanz97",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+  
+    "education": [
+      {
+        "school": "SLIIT | Sri Lanka Institute of Information Technology",
+        "degree": "BSc(Hons) Degree in Information Technology",
+        "graduated": "2017-2021",
+        "description": "Graduate in Information Technology at SLIIT who is looking to use the knowledge and skills gained in order to become a technology professional in a reputed company while developing myself and helping the company to grow."
+      },
+      {
+        "school": "ESOFT Metro Campus",
+        "degree": "Diploma in English & Information technology with E-Commerce",
+        "graduated": "2015",
+        "description": "Developed “Maliban Distribution System” for ESOFT IT diploma using C#.NET, Web based projet; programming language ASP.NET ."
+      },
+      {
+        "school": "St.Sylvester's College Kandy",
+        "graduated": "2003-2016",
+        "description": "General Certification of Examination (Advanced Level 2016) - Maths stream (Combined Mathematics, Physics, ICT) | General Certificate of Examination (Ordinary Level 2014) - (Commerce- A, Science -B, English –C, Mathematics-B)."
+      }
+    ],
+    "work": [
+      {
+        "company": "MAS Capital",
+        "title": "SAP-ABAP Developer",
+        "description": "MAS Holdings is the region's largest manufacturer of intimate apparel, performance wear and swimwear. MAS has a workforce exceeding 94,000 across 70 world class facilities located locally and overseas and records an annual turnover exceeding USS 1 billion. MAS serves internationally renowned brands like VS, M&S, NIKE, GAP and Speedo and owns the brand amante. I'm Work with the Digital Excellence Division of MAS Capital (Private) Limited."
+      }
+    ],
+    "sport": [
+      {
+        "company": "Athlete",
+        "years": "[2007-2016]"
+      },
+      {
+        "company": "Chess",
+        "years": "[2008-2016]"
+      },
+      {
+        "company": "Carrom",
+        "years": "[2008-2016]"
+      },
+      {
+        "company": "Video Gaming & Traveling",
+        "years": "Playing video games is something I enjoy in my spare time. I'm a gamer & To travel is to live."
+      }
+    ],
+    "skillsdata":[
+      {
+        "name":"Entreprenuership",
+        "level":"75%"
+      },
+      {
+        "name":"Marketing",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"UI/UX",
+        "level":"98%"
+      },
+      {
+        "name":"Flutter",
+        "level":"95%"
+      }
+    ],
+    
+    "skills": [
+      {
+        "name": "Git",
+        "description": "I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+        "image": "git.jpg"
+      },
+      {
+        "name": "Java",
+        "description": "Java was my first programming language that I started using in college years ago. It is by far the language I am most familiar with in terms of data-structure and algorithm programming.",
+        "image": "java.jpg"
+      },
+      {
+        "name": "React Js",
+        "description": "I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "image": "react.jpg"
+      },
+      {
+        "name": "Flutter",
+        "description": "I Developed Android application first with SQLite before shifting to Firebase. I used Read, Write, and Query data from a Firebase Realtime Database. Implemented features like Image Compression, Location Services, User Authentication, Instant Messaging, and open source APIs",
+        "image": "flutter.jpg"
+      },
+
+      {
+        "name": "Node JS",
+        "description": "Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
+        "image": "node.jpg"
+      },
+      {
+        "name": "Bootstrap 4",
+        "description": "I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
+        "image": "bootstrap.jpg"
+      },
+      {
+        "name": "MongoDB",
+        "description": "I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
+        "image": "mongo.jpg"
+      },
+      {
+        "name": "UI/UX",
+        "description": "I Develop UI mock-ups and prototypes that clearly illustrate the user journey and how sites function and look like. Gathering and evaluating user requirements, in collaboration with Product managers and Engineers. Adjustment of designs based on user testing feedback.",
+        "image": "uiux.jpg"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Smart Emotion Meal Order",
+        "category":"Set the meal for the recognized emotion.",
+        "image":"semo.jpg",
+        "url":"https://youtu.be/jHVkgsRsynA"
+      },
+      {
+        "title":"Hospital Management System",
+        "category":"Automated system for Hospital Management System.",
+        "image":"hms.jpg",
+        "url":"https://youtu.be/jHVkgsRsynA"
+      },
+      {
+        "title":"Petbook Management System",
+        "image":"petbook.jpg",
+        "url":"https://youtu.be/jHVkgsRsynA"
+      },
+      {
+        "title":"Car Rental Service System",
+        "image":"car.jpg",
+        "url":"https://youtu.be/jHVkgsRsynA"
+      },
+      {
+        "title":"Cafe Resturant System",
+        "category":"CAFE THE VIBE.",
+        "image":"cafe.jpg",
+        "url":"https://youtu.be/jHVkgsRsynA"
+      },
+      {
+        "title":"E-Channeling System",
+        "category":" ICT service provider to the Healthcare industry.",
+        "image":"echannel.jpg",
+        "url":"https://youtu.be/jHVkgsRsynA"
+      },
+      {
+        "title":"Pet-Admin System",
+        "image":"petadmin.jpg",
+        "url":"https://youtu.be/jHVkgsRsynA"
+      },
+      {
+        "title":"Maliban",
+        "category":"Disribution System",
+        "image":"Maliban.jpg",
+        "url":"https://youtu.be/jHVkgsRsynA"
+      }
+    ]
+  },
+  
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I have had the opportunity to work with Dilshan on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Dilshan excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
+        "user": "Mr.Susantha Saman Kumara  - Senior Software Engineer (Virtusa)"
+      },
+      {
+        "text": "I have found him to be a dynamic professional who is equipped with a broad vision of Software Development. I highly recommend him.",
+        "user": "Mr.Prashan Rathnayaka - Assistent Manager academic affairs at SLIIT"
+      }
+    
+    ]
+  }
+}
