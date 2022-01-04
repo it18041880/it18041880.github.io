@@ -1,11 +1,11 @@
 {
   "main": {
     "name": "Pubudu Dilshan",
-    "occupation": " Entrepreneur",
-    "description": " Software Engineer, Founder & CEO at Future Apps ",
+    "occupation": " Freelancer",
+    "description": " Software Developer, Founder & CEO at Future Apps ",
     "jobDescription": "Loves Traveling and Driving",
     "image": "profile_pic.jpg",
-    "bio": "Pubudu Dilshan - Software Engineer and Startup Enthusiast,I'm really enjoy exposing myself to different technologies everyday and working either independently or as [art of a team. I welcome all the opprtunities to consoder my suitabillity in details.",
+    "bio": "Pubudu Dilshan - Software Developer and Startup Enthusiast,I'm really enjoy exposing myself to different technologies everyday and working either independently or as [art of a team. I welcome all the opprtunities to consoder my suitabillity in details.",
     "contactmessage": "Sent Me A Messege",
     "email": "pubududilshan97@gmail.com",
     "phone": "(+94) 713620406",
@@ -90,10 +90,6 @@
       }
     ],
     "skillsdata":[
-      {
-        "name":"Entreprenuership",
-        "level":"75%"
-      },
       {
         "name":"Marketing",
         "level":"70%"
@@ -218,7 +214,7 @@
     "testimonials": [
       {
         "text": "I have had the opportunity to work with Dilshan on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Dilshan excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
-        "user": "Mr.Susantha Saman Kumara  - Senior Software Engineer (Virtusa)"
+        "user": "Mr.Susantha Saman Kumara  - Software Engineer Consultant (Virtusa)"
       },
       {
         "text": "I have found him to be a dynamic professional who is equipped with a broad vision of Software Development. I highly recommend him.",
